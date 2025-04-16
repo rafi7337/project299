@@ -1,8 +1,5 @@
 # project299
 
- ## UI Design
-
-![UI Design](https://i.postimg.cc/6pBwPK2V/Screenshot-2025-04-16-12-00-34-98-40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 ## Getting Started
 
